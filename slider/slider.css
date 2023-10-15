@@ -1,0 +1,199 @@
+.main {
+    width: 1000px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+div {
+    color: azure;
+}
+
+.main__main-first {
+    background-image: url(./img/img_nature_wide.jpg);
+    height: 350px;
+}
+
+.main-first__left-arrow-button {
+    position: relative;
+    top: 162px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px 20px 10px 10px;
+}
+
+.main-first__left-arrow-button:hover,
+.main-first__right-arrow-button:hover,
+.main-second__right-arrow-button:hover,
+.main-second__left-arrow-button:hover,
+.main-third__right-arrow-button:hover,
+.main-third__left-arrow-button:hover,
+.main-fourth__right-arrow-button:hover,
+.main-fourth__left-arrow-button:hover{
+    background-color: black;
+}
+
+.main-first__main-contatore {
+    position: relative;
+    top: -15px;
+    left: 10px;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.main-first__main-text-contatore {
+    text-align: center;
+    margin-top: 240px;
+    font-size: 20px;
+}
+
+.main-first__right-arrow-button {
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    top: -170px;
+    left: 958px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* ==================================== */
+
+
+.main__main-second{
+    height: 0;
+}
+
+.main-second__left-arrow-button {
+    position: relative;
+    top: 162px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 0px;
+    cursor: pointer;
+    padding: 10px 20px 10px 10px;
+}
+
+.main-second__main-contatore {
+    position: relative;
+    top: -15px;
+    left: 10px;
+    letter-spacing: 3px;
+    font-size: 0px;
+}
+
+
+.main-second__main-text-contatore {
+    text-align: center;
+    margin-top: 240px;
+    font-size: 0px;
+}
+
+.main-second__right-arrow-button {
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    top: -170px;
+    left: 958px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 0px;
+    cursor: pointer;
+}
+
+/* ============================================== */
+
+.main__main-third {
+    height: 0;
+}
+
+.main-third__left-arrow-button {
+    position: relative;
+    top: 162px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 0px;
+    cursor: pointer;
+    padding: 10px 20px 10px 10px;
+}
+
+.main-third__main-contatore {
+    position: relative;
+    top: -15px;
+    left: 10px;
+    letter-spacing: 3px;
+    font-size: 0px;
+}
+
+.main-third__main-text-contatore {
+    text-align: center;
+    margin-top: 240px;
+    font-size: 0px;
+}
+
+.main-third__right-arrow-button {
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    top: -170px;
+    left: 958px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 0px;
+    cursor: pointer;
+}
+
+/*  =======================================  */
+
+
+.main__main-fourth {
+    height: 0px;
+    background-image: url(./img/img_mountains_wide.jpg);
+}
+
+.main-fourth__left-arrow-button {
+    position: relative;
+    top: 162px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 0px;
+    cursor: pointer;
+    padding: 10px 20px 10px 10px;
+}
+
+.main-fourth__main-contatore {
+    position: relative;
+    top: -15px;
+    left: 10px;
+    letter-spacing: 3px;
+    font-size: 0px;
+}
+
+.main-fourth__main-text-contatore {
+    text-align: center;
+    margin-top: 240px;
+    font-size: 0px;
+}
+
+.main-fourth__right-arrow-button {
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    top: -170px;
+    left: 958px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 0px;
+    cursor: pointer;
+}
