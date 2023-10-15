@@ -27,7 +27,6 @@ rightArrow.addEventListener('click', () => {
     if (rotated) {
         rotated = false
     } else {
-        TransitionEvent
         background2.style.backgroundImage = 'url("./img/img_snow_wide.jpg")'
         background2.style.height = '350px'
         contatore2.style.fontSize = '20px'
@@ -35,7 +34,7 @@ rightArrow.addEventListener('click', () => {
         rightArrow2.style.fontSize = '20px'
         txt2.style.fontSize = '20px'
         background.style.height = '0px'
-        background.style.marginTop = '0px';
+        background.style.marginTop = '0px'
         contatore.style.fontSize = '0px'
         leftArrow.style.fontSize = '0px'
         rightArrow.style.fontSize = '0px'
